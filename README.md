@@ -1,7 +1,9 @@
 # 🤙🏻 Hello there!
 
-<img src = "adaptive_mesh_refinements.png" alt = "Image of adaptive mesh refinements" width = "100%"/>
-
+<p align = "center">
+    <img src = "adaptive_mesh_refinements.png" alt = "Image of adaptive mesh refinements" width = "100%"/>
+    <i>Close-up image of an adaptively refined finite element mesh.</i>
+</p>
 
 ## 🧑🏻‍🔧 About Me
 
