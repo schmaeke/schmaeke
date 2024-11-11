@@ -19,5 +19,5 @@ I’m a **mechanical engineer** by training with strong interest for numerical m
 
 ### 💡 My other technical interests are:
 
-- **Typesetting with LaTeX**: Whether it is writing documents or creating graphics, I use LaTeX. I often share my templates and document classes on my GitHub.
+- **Typesetting with LaTeX**: Whether it is writing documents, making slides or creating graphics, I use LaTeX. I often share my templates and document classes on my GitHub.
 - **Open Source Software**: While my time doesn't allow me to contribute much I'm always exploring and utilizing new projects from the FOSS community.
