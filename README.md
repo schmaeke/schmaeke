@@ -1,7 +1,7 @@
 # 🤙🏻 Hello there!
 
 <p align = "center">
-    <img src = "adaptive_mesh_refinements.png" alt = "Image of adaptive mesh refinements" width = "100%"/>
+    <img src = "adaptive_mesh_refinements.png" alt = "Image of adaptive mesh refinements" width = "100%" style = "border-radius:10px"/>
     <i>Close-up image of an adaptively refined finite element mesh.</i>
 </p>
 
