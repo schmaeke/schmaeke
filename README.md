@@ -2,7 +2,7 @@
 
 <p align = "center">
     <img src = "sunflower_quad_tree_decomposition.gif" alt = "Image of adaptive mesh refinements" width = "60%"/><br>
-    *Decomposition of a image featuring a sunflower using quad trees. [Original image](https://unsplash.com/photos/macro-shot-of-yellow-sunflower-QwXPI_Vts8g) by [Debby Hudson](https://unsplash.com/@hudsoncrafted).*
+    <i>Decomposition of a image featuring a sunflower using quad trees. <a href = "https://unsplash.com/photos/macro-shot-of-yellow-sunflower-QwXPI_Vts8g">Original image</a> by <a href = "https://unsplash.com/@hudsoncrafted">Debby Hudson</a>.</i>
 </p>
 
 ## About Me
